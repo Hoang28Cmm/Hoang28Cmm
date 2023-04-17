@@ -19,7 +19,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/height="50" width="50">
   </a>
   <a href="https://www.facebook.com/hoanglu10574/" alt="Facebook">
-">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/Rim1208" alt="Github">
