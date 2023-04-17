@@ -24,7 +24,7 @@
   <a href="https://www.facebook.com/gaming/HoangKhuyetTV" alt="Facebook">
     <img src="https://img.icons8.com/color/1x/facebook-gaming.png"/>
   </a> 
-  <a href="" alt="Youtube channel" target="_blank" >
+   <a href="https://www.youtube.com/channel/UCU8o4JFCjQ48N5j5DrQc1eQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="" alt="https://www.youtube.com/channel/UCU8o4JFCjQ48N5j5DrQc1eQ" target="_blank" >
