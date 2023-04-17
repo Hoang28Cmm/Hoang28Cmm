@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://discord.gg/zEATnnEP"alt="Discord server" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"/height="50" width="50">
   </a>
   <a href="https://www.facebook.com/hoanglu10574/" alt="Facebook">
