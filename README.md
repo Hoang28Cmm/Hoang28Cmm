@@ -29,10 +29,8 @@
   </a>
   <a href="https://www.tiktok.com/@hoangcangaogaming" alt="Tik Tok channel" target="_blank" >
     <img src="https://img.icons8.com/color/1x/tiktok.png"width="48" height="48"/>
-  </a>
-  <a href="vufjrw@gmail.com"></a>
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+  
+  
 </p>
 
 </p>
