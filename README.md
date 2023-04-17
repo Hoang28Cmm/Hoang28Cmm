@@ -27,7 +27,7 @@
    <a href="https://www.youtube.com/channel/UCU8o4JFCjQ48N5j5DrQc1eQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="" alt="https://www.youtube.com/channel/UCU8o4JFCjQ48N5j5DrQc1eQ" target="_blank" >
+  <a href="https://www.tiktok.com/@hoangcangaogaming" alt="Tik Tok channel" target="_blank" >
     <img src="https://img.icons8.com/color/1x/tiktok.png"width="48" height="48"/>
   </a>
   <a href="" alt="Email">
