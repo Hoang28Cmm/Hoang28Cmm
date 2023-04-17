@@ -21,7 +21,7 @@
   <a href="https://www.facebook.com/hoanglu10574/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/Rim1208" alt="Github">
+  <a href="https://www.facebook.com/gaming/HoangKhuyetTV" alt="Facebook">
     <img src="https://img.icons8.com/color/1x/facebook-gaming.png"/>
   </a> 
   <a href="" alt="Youtube channel" target="_blank" >
